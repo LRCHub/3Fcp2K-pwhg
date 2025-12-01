@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "HARKA / Litty / Worldwide Skippa / YELLASOMA  prod. by Lion Melo | Red Bull RASEN",
+  "base_artist": "レッドブルマイク",
+  "createdAt": "2025-12-01T13:54:30.547241Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Härkä",
+      "artist": "Turmion Kätilöt",
+      "has_synced": true,
+      "path": "select/01_Härkä_Turmion_Kätilöt.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Raivo härkä",
+      "artist": "Olavi Uusivirta",
+      "has_synced": true,
+      "path": "select/02_Raivo_härkä_Olavi_Uusivirta.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "harkaspeed",
+      "artist": "HARKA",
+      "has_synced": false,
+      "path": "select/pl_01_harkaspeed_HARKA.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Hark A Heathen Spell",
+      "artist": "HARKA",
+      "has_synced": false,
+      "path": "select/pl_02_Hark_A_Heathen_Spell_HARKA.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Härkä",
+      "artist": "HARKA",
+      "has_synced": false,
+      "path": "select/pl_03_Härkä_HARKA.txt"
+    }
+  ]
+}
