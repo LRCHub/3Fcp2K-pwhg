@@ -1,0 +1,37 @@
+# レッドブルマイク – HARKA / Litty / Worldwide Skippa / YELLASOMA  prod. by Lion Melo | Red Bull RASEN
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:23.46] Minä tiedän totuuden
+[00:25.70] Sinä saatana selität toista
+[00:29.47] Katsot nyrkkiä etenevää
+[00:31.54] Eikä huutosi nyrkkiä poista
+[00:45.04] 
+[00:35.16] Olet kironnut tahtoni
+[00:37.47] Eikä kirouksesi kiimaani pois vie
+[00:40.61] Vuodatan sukusi veren maahan
+[00:43.49] Se joki on puhdistuksen tie
+[00:56.99] 
+[00:46.53] Kuuma härkä
+[00:49.52] Märkä lehmä
+[00:52.37] Kuuma härkä
+[00:55.12] Märkä
+[00:56.73] Perkele
+[01:00.23] 
+[01:21.64] Käyt päälleni kumartuen
+[01:24.23] Antaudun kuin kuolevainen
+[01:27.69] Teet kaiken mitä tahdo en
+[01:30.29] Otan sen vastaan ja kiroilen
+[01:44.29] 
+[01:33.39] Olet kironnut tahtoni
+[01:35.76] Eikä kirouksesi kiimaani pois vie
+[01:38.96] Vuodatan sukuni veren maahan
+[01:41.53] Se joki on puhdistuksen tie
+[01:55.03] 
+[01:50.74] Kuuma härkä
+[01:53.44] Märkä lehmä
+[01:56.32] Kuuma härkä
+[01:59.17] Märkä
+[02:00.88] Perkele
+```
